@@ -10,7 +10,7 @@ if b == '64bit':
 
     os.system('xdg-open https://youtube.com/channel/UCzpqRlRaLASqwsWvsPuCdwQ/');time.sleep(7)
 
-    import Bypass.py
+    import SSB
 
 elif b == '32bit':
 
